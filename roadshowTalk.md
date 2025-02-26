@@ -8,6 +8,8 @@ Nevendoel: discussie in de zaal doen opwellen en elkaar pointers laten geven. Vo
 Je weet dat je een SOC wil, daar twijfel je niet aan.
 Maar weet je ook waarom? Als je het zelf al niet sluitend weet, hoe ga je het dan uitleggen?
 
+Doe je het zelf of besteed je het uit?
+
 ### Welke redenen zijn er om een SOC dienst in te kopen? - probleemstellingSchets
 
 Schets een noodzaak.
@@ -16,11 +18,42 @@ Schets een noodzaak.
 - 
 - 
 
+Wat zijn kosten als je het niet doet? - Business case
+Blind varen zonder SOC een optie?
+Zelf doen een optie? 
+
+#### Wat zou zelf doen inhouden?
+Onboarding klinkt simpel, maar het is een mbacht. Soms moet je regel voor regel logregels gaan lezen. Dat is niet alleen saai, maar ook onbegonnen werk.
+Daarna moet er nog logica aan toegevoegd worden - denk IFTT. 
+Daarna is er pas een event.
+Maar wanneer is een event een alarm? Weer logica toepassen.
+
+Je bent u ee nhalf jaar verder en hebt pas één alarm ingesteld en ondertussen je werk niet kunnen doen...
+
+Dan ben je nog niet eens aan response begonnen.
+
+#### Bijkomende zaken
+
+- logica
+- logica
+- logica
+- tijd
+- ervaring
+
+Verschil tussen logs uit platformen (OS, etc) en dan nog applicaties.
+
 ### Welke SOC diensten zijn er eigenlijk? - oplossingsrichting
 
 -
 -
 -
+
+Belangrijk: een SOC is niet een SOC.
+Bedenk goed wát er straks gemonitord word en vertel niet het verkeerde verhaal.
+
+Monitoring op logs uit platformen is niet hetzelfde als applicatielogging. Wat wordt er precies gelogd? Sysadmin handelingen of applicatie abuse of inbrekers?
+
+(Oscarvoorbeeld: Windows volgen is ook nodig, maar we willen abuse in ons DMS zien.)
 
 ### Wat heb je dan precies nodig? - oplossingsrichting koppelen aan probleemstelling
 
@@ -48,3 +81,11 @@ Hoe vraag je naar de juiste informatie? (Percelen, begeleiding, formulieren)
 ## Je hebt je geld uitgegeven en ingekocht. Hoe nu verder?
 
 Sterkte! 
+
+
+
+
+# Ideeen / notes
+
+SIEM en SOAR? 
+
