@@ -32,6 +32,11 @@ Je bent u ee nhalf jaar verder en hebt pas één alarm ingesteld en ondertussen 
 
 Dan ben je nog niet eens aan response begonnen.
 
+"Wie hier kan zélf een SOC draaien?"
+"Wie hier heeft de capaciteit om al boven en onderstaande taken niet alleen technisch uit te voeren maar ook de tijd om dat te doen?"
+"Jij hebt teveel tijd, maar blijf ook even staan, verhoog je uurloon en laat je inhuren. Je bent zeldzaam."
+"Voor alle anderen, je bent niet alleen. Dit is waarom we hier nu zijn."
+
 #### Bijkomende zaken
 
 - logica
@@ -88,4 +93,32 @@ Sterkte!
 # Ideeen / notes
 
 SIEM en SOAR? 
+
+
+# brainstorm
+
+Doe maar een soc < vanuit bestuurder (gebruik dit, blijkbaar is er wens en ruimte)
+Ga aan een zelf-assessment, wat ga ik doen? (Uit-, aan- inbesteden?)
+Is een SOC voldoende of heb ik IR?
+
+Focus: zelf-assessment.
+Kijk naar je eigen orga
+
+VSSR: is er een checklist zelf-assessment?
+
+Na je zelf-assessment, zo ga je dan naar bestuur met:
+- Geldinschatting
+- Gebruiksvriendelijkheid
+(Snel/efficient/goedkoop)
+
+HAVIK: overzicht met een aantal producten eronder. 
+'hoe loopt een project' 
+Dus van PvE tot inkoop
+Waar moet je aan denken als je een SOC dienst gaat uitvragen
+
+# tekst
+
+Goedemiddag dames heren, jongens, meisjes en alles daarbinnen en daarbuiten.
+Mijn naam is Albert Welboren-Groen
+
 
